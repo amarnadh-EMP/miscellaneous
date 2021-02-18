@@ -1,5 +1,5 @@
 
-with open("Essex_Work\Mashup20210218.000000000.JSON") as f:
+with open("Examples\Mashup20210218.000000000.JSON") as f:
    file= f.readlines()
 
 
